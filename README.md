@@ -1,32 +1,100 @@
-# 💫 About Me:
-Aspiring Cloud & DevOps Engineer skilled in Linux, AWS, Docker, and Kubernetes. Focused on building scalable infrastructure, automating workflows, and growing through continuous learning.
+<h1 align="center">Hi 👋, I'm Om Doifode</h1>
 
-<!-- Snake Game Repo View -->
+<h3 align="center">
+Cloud & DevOps Engineer | Linux | AWS | Kubernetes | Terraform | Docker | Azure | GCP | Jenkins 
+</h3>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) 
+<p align="center">
+  📍 Pune, Maharashtra, India <br>
+  
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ommm12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
 
-<!--
-**Ommm12/Ommm12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Cloud & DevOps Engineer focused on building reliable, scalable, and automated infrastructure solutions using modern DevOps practices and cloud technologies.
 
-Here are some ideas to get you started:
+My journey started with hands-on learning, real-world troubleshooting, and continuous practice through platforms like KodeKloud, AWS, and self-built cloud projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working on:
+- ☁️ AWS Cloud Infrastructure
+- 🐳 Docker & Kubernetes
+- ⚙️ Terraform & Infrastructure as Code
+- 🔄 CI/CD Automation
+- 🐧 Linux Administration
+- 📦 Git & Version Control
+- 🚀 DevOps Monitoring & Deployment Strategies
+
+I strongly believe in:
+> “Learning by building, documenting, and sharing.”
+
+---
+
+# 🚀 Current Focus
+
+-  Building real-world Cloud & DevOps projects
+-  Practicing production-level troubleshooting
+-  Improving Kubernetes & Terraform skills
+-  Working on CI/CD automation pipelines
+-  Exploring scalable cloud-native architectures
+-  Strengthening Linux & Networking fundamentals
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible" />
+
+### 💻 Development & Scripting
+<img src="https://skillicons.dev/icons?i=python,bash,mysql" />
+
+### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+
+</div>
+
+---
+
+# 📌 DevOps Journey Highlights
+
+✅ Completed hands-on DevOps & Cloud labs on KodeKloud  
+✅ Worked on AWS infrastructure automation projects  
+✅ Built CI/CD workflows using Jenkins & GitHub  
+✅ Practiced Git branching, merging & remote management  
+✅ Worked with Docker containers & Kubernetes orchestration  
+✅ Created Terraform-based Infrastructure as Code deployments  
+
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=doifodeom04@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/omdoifode/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Ommm12" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+⚡ “Consistency + Hands-on Practice = Growth” ⚡
+</h3>
+
+<h4 align="center">
+Thanks for visiting my profile! 🚀
+</h4>
